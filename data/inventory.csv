@@ -1,3 +1,26 @@
 ItemID,Description,Quantity,Brand,ExpiryDate,Price
-1,Milk 1L,2,Dairy Farm,2025-04-21,60.00
-3,Rice Basmati 5kg,3,Golden Harvest,2026-12-20,1090.00
+2,Bread Whole Wheat,15,Baker's Best,2025-04-24,35.00
+3,Rice Basmati 5kg,3,Golden Harvest,2026-07-15,450.00
+4,Pasta Penne 500g,18,Italian Delights,2026-10-30,70.00
+10,Chicken Breast 500g,12,Farm Fresh,2025-04-30,210.00
+11,Eggs 12 pack,8,Happy Hen,2025-05-10,72.00
+14,Yogurt Plain 500g,10,Dairy Dream,2025-05-15,55.00
+18,Potato 2kg,20,Earth's Best,2025-06-05,60.00
+21,Toilet Paper 6 rolls,8,Soft Touch,,135.00
+24,Shampoo 400ml,4,Silky Smooth,2027-01-18,175.00
+27,Coffee Ground 250g,6,Morning Brew,2026-08-20,190.00
+29,Honey 500g,5,Nature's Gold,2026-11-30,220.00
+31,Chocolate Bar 100g,25,Sweet Delights,2025-09-25,50.00
+33,Crackers Salted 200g,9,Crispy Bites,2025-12-05,45.00
+35,Jam Strawberry 250g,7,Fruit Land,2026-05-20,95.00
+38,Beans Baked 400g,12,Farm Harvest,2026-06-18,65.00
+54,Tomato 500g,15,Vine Ripe,2025-04-25,45.00
+55,Bell Pepper Mixed 3pk,8,Rainbow Garden,2025-05-02,85.00
+62,Aluminum Foil 30m,5,Kitchen Wrap,,110.00
+66,Floor Cleaner 1L,4,Shine Bright,2027-03-12,90.00
+73,Toothbrush Medium,10,Bright Smile,,40.00
+75,Deodorant Roll-on 50ml,6,Day Fresh,2026-11-10,130.00
+82,Water Mineral 1.5L,24,Pure Spring,2025-12-10,25.00
+85,Wine Red 750ml,8,Vineyard Select,2028-02-15,650.00
+88,Frozen Vegetables Mix 500g,6,Garden Fresh,2026-02-28,120.00
+96,Pasta Sauce Bolognese 500g,7,Italian Kitchen,2026-03-15,160.00
