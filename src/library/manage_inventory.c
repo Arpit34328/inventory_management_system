@@ -216,7 +216,11 @@ void sell_item_to_customer() {
 	if (inventory[idx].quantity == 0) {
         
 		printf("Error: Item not available in inventory or out of stock.\n");
-        
+
+		strcpy(inventory[idx].expiryDate, "");	
+
+		inventory[idx].price = 0.0;
+
 		printf("Press Enter to continue...");
         
 		getchar();
